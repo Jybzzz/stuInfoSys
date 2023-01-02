@@ -1,0 +1,6 @@
+1.在mysql中创建一个名为db_student的数据库，并将db_student文件夹里面的表导入到该数据库中
+2.打开项目文件夹studentInfoSys
+3.找到util包下的Dbutil，将里面连接mysql的密码修改为自己的
+4.找到view包下的LoginFrm运行即可
+
+登入的账号密码在数据库中，这里提供一个管理员的（账号：admin，密码：1）
